@@ -37,6 +37,8 @@ namespace VoiceRepeater
         {
             // TODO: Record time of point B
 
+            listBoxSections.Items.Add("Part " + listBoxSections.Items.Count.ToString());
+
             if (startTime != null)
             {
                 isRepeating = true;

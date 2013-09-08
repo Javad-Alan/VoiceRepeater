@@ -33,6 +33,7 @@
             <Button Content="Play" Height="102" HorizontalAlignment="Left" Margin="145,588,0,0" Name="btnPlay" VerticalAlignment="Top" Width="160" Click="btnPlay_Click" />
             <Button Content="&lt;" Height="72" HorizontalAlignment="Left" Margin="29,603,0,0" Name="btnPrevious" VerticalAlignment="Top" Width="110" />
             <Button Content="&gt;" Height="72" HorizontalAlignment="Left" Margin="313,603,0,0" Name="btnNext" VerticalAlignment="Top" Width="110" />
+            <ListBox Height="269"  HorizontalAlignment="Left" Margin="12,29,0,0" Name="listBoxSections" VerticalAlignment="Top" Width="438" />
         </Grid>
     </Grid>
  
